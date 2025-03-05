@@ -1,4 +1,5 @@
-TR
+EN
+---
 # Project Reports
 
 Bu repo, farklı projeler için hazırlanmış teknik raporları içermektedir. Aşağıda, mevcut raporların kısa açıklamaları bulunmaktadır.
